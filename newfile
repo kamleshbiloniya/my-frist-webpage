@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<style>
+body {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92y0-grAjnQMwo3snS56f9_AKRe0bmUvaBGYEWxs39ilGohC6")}
+</style>
+
+<style style="text/css">
+.example1 {
+ height: 50px;
+ overflow: hidden;
+ position: relative;
+}
+.example1 h3 {
+ font-size: 3em;
+ color: limegreen;
+ position: absolute;
+ width: 100%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);
+ transform:translateX(100%);
+ /* Apply animation to this element */
+ -moz-animation: example1 15s linear infinite;
+ -webkit-animation: example1 15s linear infinite;
+ animation: example1 15s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes example1 {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes example1 {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes example1 {
+ 0%   {
+ -moz-transform: translateX(100%); /* Firefox bug fix */
+ -webkit-transform: translateX(100%); /* Firefox bug fix */
+ transform: translateX(100%);
+ }
+ 100% {
+ -moz-transform: translateX(-100%); /* Firefox bug fix */
+ -webkit-transform: translateX(-100%); /* Firefox bug fix */
+ transform: translateX(-100%);
+ }
+}
+</style>
+
+<!-- HTML -->   
+<div class="example1">
+<h3>Welcome to my homepage!</h3>
+</div>
+
+
+
+
+
+<title>Kamlesh.cse </title>
+
+<meta charset="UTF-8">
+
+<!--HTML metadata is data about the HTML document. Metadata is not displayed.-->
+
+</head>
+<body>
+<img src="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-0/p110x80/17862553_1813026835686335_1630111728791908948_n.jpg?oh=62fc698583946d80f5bd4b57dd381c56&oe=59963EC4"  width="140" hight="140" > <br>
+
+
+<div style="float:left; margin-top:50px;  ">
+
+                                <b style=" font-size:20px;  font-family:'Arial';color:white; text-shadow: 2px 2px 2px #848484;"><a href="https://www.facebook.com/kamlesh.kumarbiloniya.1" target="_blank" style="color:white; text-decoration:none"> kamlesh Kumar</a></b> <br>
+                                <b style=" font-size:18px; color:#1C1C1C ;border-top: black 1px solid "><a href="http://www.cse.iitk.ac.in/" target="_blank" style="color:#1C1C1C; text-decoration:none"> Computer Science &amp; Engineering </a></b><br>
+                                <b style=" font-size:18px; color:#1C1C1C"><a href="https://en.wikipedia.org/wiki/Undergraduate_education" target="_blank" style="color:#1C1C1C; text-decoration:none"> First Year Undergraduate </a></b> <br>
+                                <b style=" font-size:18px; color:#1C1C1C"><a href="http://www.iitk.ac.in/" target="_blank" style="color:#1C1C1C; text-decoration:none">IIT Kanpur</a> </b> <br>
+                        </div>
+
+
+<a target="_blank" title="find me on Facebook" href="http://www.facebook.com/kamlesh.kumarbiloniya.1"><img alt="find me on facebook" src="//login.create.net/images/icons/user/facebook-b_130x50.png" border=0></a><br>
+
+
+
+<b><i><left><div id="info" style="height:1000px;">
+        <p style="font-size: 20px; font-family:'Arial'; color:black;">
+        </p><p><br></p> <p style="font-size: 30px; font-family:'Arial'; color:black; padding-left:90px;"> <u> Contact</u>  <br> </p><p>
+                  </p><li><p style="font-size: 22px; font-family:'Arial'; color:pink;padding-left:100px;"><u>Temporary Address</u> :<br></p></li>
+                  <p style="padding-left:110px;">Room : C-238 <br>
+                                  Hall of Residence : 10<br>
+                                  Indian Institute of Technology, Kanpur<br>
+                  Kanpur-208016<br>
+                  Uttar Pradesh<br>India<br>
+                                  </p>
+                                 <li> <p style="font-size: 21px; font-family:'Arial'; color:Red; padding-left:100px;"><u>Permanent Address</u> :<br></p></li>
+                                  <p style="padding-left:110px;"> Narsinghpura<br>
+                                  kaladera,<br>
+                                  Jaipur-303801   <br>                      Rajasthan<br> India<br>
+                                                                                                                                                                      101,1-8       69%
+ <p style="padding-left:110px;"> Mobile : +91-7318020613<br>
+                                  Mobile : +91-7568568048<br>
+                                  </p>
+                 
+                  <p></p><li><p style="font-size: 21px; font-family:'Arial'; color:orange;padding-left:100px;"><u>Email</u> :<br></p></li>
+                                 <p style="padding-left:110px;color:green;"> <a title="mailto:kk054224@gmail.com" href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank" "="">kk054224@gmail.com</a> <br>                
+                                  <a title="mailto:kamlesh@iitk.ac.in" href="https://webmail.iitk.ac.in/webmail/src/webmail.php" target="_blank">kamlesh@iitk.ac.in</a></p>
+                  <p></p>
+                  
+        </div></left></i></b>
+
+</body>
+
+
+</html>
